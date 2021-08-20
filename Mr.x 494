@@ -1,0 +1,6 @@
+$ pkg update && pkg upgrade
+$ pkg install Ruby
+$ pkg install git
+$ git clone https://github.com/MR-X-Junior
+$ cd Facebook
+$ Ruby main.rb
